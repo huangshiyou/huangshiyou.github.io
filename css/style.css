@@ -60,3 +60,20 @@ hr {
 .clumap{
 	display:none;
 }
+
+.jumbotron {
+  padding: 10px 12px;
+  margin-bottom: 20px;
+  color: inherit;
+  background-color: #eeeeee;
+}
+
+.jumbotron h1,
+.jumbotron .h1 {
+  color: inherit;
+}
+.jumbotron p {
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: 200;
+}
