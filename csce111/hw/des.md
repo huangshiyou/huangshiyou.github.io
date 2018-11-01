@@ -16,3 +16,6 @@ At least three additional modifications. (Font color, font size, more images, mo
 * Modify the code to meet the requirements above
 * Iterate until you are happy with the result.
 * Post your code on the Exercise Webpage forum and provide a link to the uploaded version on [People.tamu.edu](http://people.tamu.edu/).
+
+## Submission
+You only need to submit the web link to your webpage on tamu.people.edu.
