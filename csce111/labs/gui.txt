@@ -1,0 +1,4 @@
+
+                            Lab: Simple GUI Application
+
+Create a GUI application where the user enters the wholesale cost of an item and its markup percentage into text  elds. (For example, if an item’s wholesale cost is $5 and its markup percentage is 100 percent, then its retail price is $10.) The application should have a button that displays the item’s retail price when clicked. (Tip: Refer to the kilometer converting example introduced in class)
