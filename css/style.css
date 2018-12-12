@@ -6,7 +6,8 @@ body {
 	font-family: 'Oxygen', sans-serif;
 }
 .container {
-	margin-left: 50px;
+	margin-left: center;
+	/*text-align: center;*/
 }
 
 .doc_title {
