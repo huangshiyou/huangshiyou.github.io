@@ -33,22 +33,22 @@ I got my Degree of B.S from Department of Computer Science,
    **Shiyou Huang**, Jianmei Guo and etc (an intern projcet at Alibaba) <br>
    [[pdf]({{ site.baseurl }}/files/atc17-huang.pdf)]
    [[slides]({{ site.baseurl }}/files/slides/USENIX ATC'17.pdf)]
-   [[bibtex]({{ site.baseurl }}/bibtex/usenix_atc17.html)]
+   [[bibtex]({{ site.baseurl }}/files/bibtex/usenix_atc17.html)]
 2. <span style="color:blue">[USENIX ATC'17] Towards Production-Run Heisenbugs Reproduction on Commercial Hardware</span> <br>
    **Shiyou Huang**, Bowen Cai and Jeff Huang <br>
    [[pdf]({{ site.baseurl }}/files/atc17-huang.pdf)]
    [[slides]({{ site.baseurl }}/files/slides/USENIX ATC'17.pdf)]
-   [[bibtex]({{ site.baseurl }}/bibtex/usenix_atc17.html)]
+   [[bibtex]({{ site.baseurl }}/files/bibtex/usenix_atc17.html)]
 3. <span style="color:blue">[ECOOP'17] Speeding Up Maximal Causality Reduction with Static Dependency Analysis</span> <br>
    **Shiyou Huang** and Jeff Huang <br>
    [[pdf]({{ site.baseurl }}/files/Huang-ECOOP-2017-16.pdf)]
    [[slides]({{ site.baseurl }}/files/slides/ECOOP'17_Shiyou.pdf)]
-   [[bibtex]({{ site.baseurl }}/bibtex/ecoop17.html)]
+   [[bibtex]({{ site.baseurl }}/files/bibtex/ecoop17.html)]
 4. <span style="color:blue">[OOPSLA'16] Maximal Causality Reduction for TSO and PSO</span> <br>
    **Shiyou Huang** and Jeff Huang <br>
    [[pdf]({{ site.baseurl }}/files/mcr_relax-huang.pdf)]
    [[slides]({{ site.baseurl }}/files/slides/OOPSLA'16_Shiyou.pdf)]
-   [[bibtex]({{ site.baseurl }}/bibtex/mcr_oopsla16.html)]
+   [[bibtex]({{ site.baseurl }}/files/bibtex/mcr_oopsla16.html)]
 5. ***Open Source***: [MCR](https://github.com/parasol-aser/JMCR) for stateless model checking.
 
 ### Prior Teaching Experiences at Texas A&M University
